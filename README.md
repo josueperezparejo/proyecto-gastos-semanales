@@ -1,6 +1,6 @@
 # Proyecto carro de compras 
 
-_Aprendiendo a dominar JavaScript Vanilla con el ejercicio del Maestro Juan Pablo de la Torre Valdez en su curso en Udemy._
+_Dominando JavaScript Vanilla con el ejercicio del Maestro Juan Pablo de la Torre Valdez en su curso en Udemy._
 
 [JavaScript Moderno Guía Definitiva Construye +20 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
 
